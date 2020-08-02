@@ -1,0 +1,14 @@
+c:\users\koril\source\repos\shangpinshibie\shangpinshibie\bin\Debug\shangpinshibie.exe.config
+c:\users\koril\source\repos\shangpinshibie\shangpinshibie\bin\Debug\shangpinshibie.exe
+c:\users\koril\source\repos\shangpinshibie\shangpinshibie\bin\Debug\shangpinshibie.pdb
+c:\users\koril\source\repos\shangpinshibie\shangpinshibie\obj\Debug\shangpinshibie.csprojResolveAssemblyReference.cache
+c:\users\koril\source\repos\shangpinshibie\shangpinshibie\obj\Debug\shangpinshibie.Form1.resources
+c:\users\koril\source\repos\shangpinshibie\shangpinshibie\obj\Debug\shangpinshibie.Properties.Resources.resources
+c:\users\koril\source\repos\shangpinshibie\shangpinshibie\obj\Debug\shangpinshibie.csproj.GenerateResource.Cache
+c:\users\koril\source\repos\shangpinshibie\shangpinshibie\obj\Debug\shangpinshibie.csproj.CoreCompileInputs.cache
+c:\users\koril\source\repos\shangpinshibie\shangpinshibie\obj\Debug\shangpinshibie.exe
+c:\users\koril\source\repos\shangpinshibie\shangpinshibie\obj\Debug\shangpinshibie.pdb
+C:\Users\koril\source\repos\shangpinshibie\shangpinshibie\obj\Debug\shangpinshibie.Form2.resources
+C:\Users\koril\source\repos\shangpinshibie\shangpinshibie\obj\Debug\shangpinshibie.Form3.resources
+C:\Users\koril\source\repos\shangpinshibie\shangpinshibie\obj\Debug\shangpinshibie.Form4.resources
+C:\Users\koril\source\repos\shangpinshibie\shangpinshibie\obj\Debug\shangpinshibie.Form5.resources
